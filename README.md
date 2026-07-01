@@ -36,8 +36,10 @@ since that's my own pathway.
 Department of Home Affairs, *Australian Migration Statistics* statistical
 package, published via
 [data.gov.au](https://data.gov.au/data/dataset/australian-migration-statistics)
-under a Creative Commons Attribution 2.5 Australia licence. The package is
-released annually alongside the *Australia's Migration Trends* report.
+under a [Creative Commons Attribution 2.5 Australia](https://creativecommons.org/licenses/by/2.5/au/)
+licence. The package is released annually alongside the *Australia's Migration
+Trends* report. No changes were made to the underlying figures; the data was
+only reshaped from the original Excel format into CSV.
 
 This dashboard is independent and not affiliated with or endorsed by the
 Department of Home Affairs. Figures are for general information only and are
