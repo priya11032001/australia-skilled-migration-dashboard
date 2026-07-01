@@ -46,7 +46,7 @@ make sense of where Australia's skilled migration program is actually heading.
 
 This dashboard tracks the three main skilled visa pathways (Employer Sponsored,
 Regional, and State/Territory Nominated), the occupations getting the most grants
-under each, and where applicants are coming from — using official Department of
+under each, and where applicants are coming from, using official Department of
 Home Affairs figures, not forum guesswork.
 """
 )
@@ -143,7 +143,7 @@ fig3 = px.line(
     x="year",
     y="count",
     color="occupation",
-    title=f"Top nominated occupations over time — {pathway_choice}",
+    title=f"Top nominated occupations over time, {pathway_choice}",
     markers=True,
 )
 for trace in fig3.data:
@@ -178,7 +178,7 @@ fig4 = px.bar(
     x="count",
     y="country",
     orientation="h",
-    title=f"Top citizenship countries — {country_pathway}, {country_year}",
+    title=f"Top citizenship countries, {country_pathway}, {country_year}",
 )
 fig4.update_layout(yaxis={"categoryorder": "total ascending"}, xaxis_title="Places granted", yaxis_title="")
 st.plotly_chart(fig4, use_container_width=True)

@@ -2,7 +2,7 @@
 
 An interactive dashboard tracking Australia's skilled visa pathways: which
 occupations are actually getting grants, under which visa category, and where
-applicants are coming from — built on official Department of Home Affairs data.
+applicants are coming from, built on official Department of Home Affairs data.
 
 ## Why I built this
 
@@ -41,7 +41,7 @@ released annually alongside the *Australia's Migration Trends* report.
 
 This dashboard is independent and not affiliated with or endorsed by the
 Department of Home Affairs. Figures are for general information only and are
-not immigration advice — always confirm current visa criteria and program
+not immigration advice. Always confirm current visa criteria and program
 settings directly with the Department.
 
 ## Refresh cycle
@@ -84,7 +84,7 @@ Project_M/
 
 ## About me
 
-Shanmuga Priya Gnanasekaran — Master of Business Analytics, Deakin
+Shanmuga Priya Gnanasekaran, Master of Business Analytics, Deakin
 University. Salesforce Certified Administrator, Platform Developer I, and
 OmniStudio Developer. Previously an Application Support Analyst and
 Salesforce Developer supporting Lumen Technologies through Prodapt
