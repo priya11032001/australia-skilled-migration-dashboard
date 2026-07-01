@@ -1,0 +1,369 @@
+year,pathway,country,count
+2016-17,Employer Sponsored,India,9873
+2016-17,Employer Sponsored,United Kingdom,7955
+2016-17,Employer Sponsored,Philippines,4558
+2016-17,Employer Sponsored,South Africa,1346
+2016-17,Employer Sponsored,Sri Lanka,556
+2016-17,Employer Sponsored,People's Republic of China,4197
+2016-17,Employer Sponsored,Nepal,1577
+2016-17,Employer Sponsored,Ireland,2436
+2016-17,Employer Sponsored,Brazil,805
+2016-17,Employer Sponsored,Pakistan,713
+2016-17,Employer Sponsored,Republic of Korea,1487
+2016-17,Employer Sponsored,Italy,1023
+2016-17,Employer Sponsored,Zimbabwe,158
+2016-17,Employer Sponsored,Colombia,350
+2016-17,Employer Sponsored,Vietnam,637
+2016-17,Employer Sponsored,Other,10579
+2017-18,Employer Sponsored,India,5148
+2017-18,Employer Sponsored,United Kingdom,6335
+2017-18,Employer Sponsored,Philippines,3474
+2017-18,Employer Sponsored,South Africa,1346
+2017-18,Employer Sponsored,Sri Lanka,381
+2017-18,Employer Sponsored,People's Republic of China,2713
+2017-18,Employer Sponsored,Nepal,748
+2017-18,Employer Sponsored,Ireland,1511
+2017-18,Employer Sponsored,Brazil,677
+2017-18,Employer Sponsored,Pakistan,449
+2017-18,Employer Sponsored,Republic of Korea,956
+2017-18,Employer Sponsored,Italy,1028
+2017-18,Employer Sponsored,Zimbabwe,111
+2017-18,Employer Sponsored,Colombia,238
+2017-18,Employer Sponsored,Vietnam,462
+2017-18,Employer Sponsored,Other,9951
+2018-19,Employer Sponsored,India,7224
+2018-19,Employer Sponsored,United Kingdom,7256
+2018-19,Employer Sponsored,Philippines,3484
+2018-19,Employer Sponsored,South Africa,1518
+2018-19,Employer Sponsored,Sri Lanka,487
+2018-19,Employer Sponsored,People's Republic of China,2945
+2018-19,Employer Sponsored,Nepal,1296
+2018-19,Employer Sponsored,Ireland,1546
+2018-19,Employer Sponsored,Brazil,1216
+2018-19,Employer Sponsored,Pakistan,489
+2018-19,Employer Sponsored,Republic of Korea,961
+2018-19,Employer Sponsored,Italy,1248
+2018-19,Employer Sponsored,Zimbabwe,93
+2018-19,Employer Sponsored,Colombia,317
+2018-19,Employer Sponsored,Vietnam,736
+2018-19,Employer Sponsored,Other,11196
+2019-20,Employer Sponsored,India,4718
+2019-20,Employer Sponsored,United Kingdom,4275
+2019-20,Employer Sponsored,Philippines,2583
+2019-20,Employer Sponsored,South Africa,1145
+2019-20,Employer Sponsored,Sri Lanka,429
+2019-20,Employer Sponsored,People's Republic of China,2524
+2019-20,Employer Sponsored,Nepal,884
+2019-20,Employer Sponsored,Ireland,996
+2019-20,Employer Sponsored,Brazil,888
+2019-20,Employer Sponsored,Pakistan,403
+2019-20,Employer Sponsored,Republic of Korea,741
+2019-20,Employer Sponsored,Italy,915
+2019-20,Employer Sponsored,Zimbabwe,79
+2019-20,Employer Sponsored,Colombia,216
+2019-20,Employer Sponsored,Vietnam,569
+2019-20,Employer Sponsored,Other,7896
+2020-21,Employer Sponsored,India,4347
+2020-21,Employer Sponsored,United Kingdom,3419
+2020-21,Employer Sponsored,Philippines,1832
+2020-21,Employer Sponsored,South Africa,1305
+2020-21,Employer Sponsored,Sri Lanka,431
+2020-21,Employer Sponsored,People's Republic of China,1369
+2020-21,Employer Sponsored,Nepal,597
+2020-21,Employer Sponsored,Ireland,823
+2020-21,Employer Sponsored,Brazil,741
+2020-21,Employer Sponsored,Pakistan,326
+2020-21,Employer Sponsored,Republic of Korea,585
+2020-21,Employer Sponsored,Italy,571
+2020-21,Employer Sponsored,Zimbabwe,124
+2020-21,Employer Sponsored,Colombia,260
+2020-21,Employer Sponsored,Vietnam,410
+2020-21,Employer Sponsored,Other,6363
+2021-22,Employer Sponsored,India,5845
+2021-22,Employer Sponsored,United Kingdom,2967
+2021-22,Employer Sponsored,Philippines,2151
+2021-22,Employer Sponsored,South Africa,1487
+2021-22,Employer Sponsored,Sri Lanka,629
+2021-22,Employer Sponsored,People's Republic of China,1407
+2021-22,Employer Sponsored,Nepal,696
+2021-22,Employer Sponsored,Ireland,791
+2021-22,Employer Sponsored,Brazil,774
+2021-22,Employer Sponsored,Pakistan,360
+2021-22,Employer Sponsored,Republic of Korea,604
+2021-22,Employer Sponsored,Italy,577
+2021-22,Employer Sponsored,Zimbabwe,282
+2021-22,Employer Sponsored,Colombia,253
+2021-22,Employer Sponsored,Vietnam,821
+2021-22,Employer Sponsored,Other,6459
+2022-23,Employer Sponsored,India,8187
+2022-23,Employer Sponsored,United Kingdom,4324
+2022-23,Employer Sponsored,Philippines,3123
+2022-23,Employer Sponsored,South Africa,1796
+2022-23,Employer Sponsored,Sri Lanka,1078
+2022-23,Employer Sponsored,People's Republic of China,1676
+2022-23,Employer Sponsored,Nepal,761
+2022-23,Employer Sponsored,Ireland,1402
+2022-23,Employer Sponsored,Brazil,1081
+2022-23,Employer Sponsored,Pakistan,420
+2022-23,Employer Sponsored,Republic of Korea,894
+2022-23,Employer Sponsored,Italy,715
+2022-23,Employer Sponsored,Zimbabwe,385
+2022-23,Employer Sponsored,Colombia,370
+2022-23,Employer Sponsored,Vietnam,723
+2022-23,Employer Sponsored,Other,8065
+2023-24,Employer Sponsored,India,10966
+2023-24,Employer Sponsored,United Kingdom,4500
+2023-24,Employer Sponsored,Philippines,3368
+2023-24,Employer Sponsored,South Africa,1417
+2023-24,Employer Sponsored,Sri Lanka,1016
+2023-24,Employer Sponsored,People's Republic of China,2367
+2023-24,Employer Sponsored,Nepal,710
+2023-24,Employer Sponsored,Ireland,1154
+2023-24,Employer Sponsored,Brazil,933
+2023-24,Employer Sponsored,Pakistan,453
+2023-24,Employer Sponsored,Republic of Korea,844
+2023-24,Employer Sponsored,Italy,655
+2023-24,Employer Sponsored,Zimbabwe,328
+2023-24,Employer Sponsored,Colombia,365
+2023-24,Employer Sponsored,Vietnam,1024
+2023-24,Employer Sponsored,Other,6725
+2024-25,Employer Sponsored,India,12762
+2024-25,Employer Sponsored,United Kingdom,4650
+2024-25,Employer Sponsored,Philippines,3834
+2024-25,Employer Sponsored,South Africa,2240
+2024-25,Employer Sponsored,Sri Lanka,1984
+2024-25,Employer Sponsored,People's Republic of China,1509
+2024-25,Employer Sponsored,Nepal,1412
+2024-25,Employer Sponsored,Ireland,1343
+2024-25,Employer Sponsored,Brazil,1266
+2024-25,Employer Sponsored,Pakistan,823
+2024-25,Employer Sponsored,Republic of Korea,767
+2024-25,Employer Sponsored,Italy,671
+2024-25,Employer Sponsored,Zimbabwe,634
+2024-25,Employer Sponsored,Colombia,598
+2024-25,Employer Sponsored,Vietnam,508
+2024-25,Employer Sponsored,Other,8999
+2020-21,Regional,India,4638
+2020-21,Regional,Sri Lanka,451
+2020-21,Regional,Pakistan,762
+2020-21,Regional,Nepal,1198
+2020-21,Regional,Philippines,1289
+2020-21,Regional,People's Republic of China,764
+2020-21,Regional,Bangladesh,201
+2020-21,Regional,Iran,283
+2020-21,Regional,United Kingdom,489
+2020-21,Regional,Bhutan,71
+2020-21,Regional,South Africa,356
+2020-21,Regional,Vietnam,343
+2020-21,Regional,Nigeria,153
+2020-21,Regional,Egypt,175
+2020-21,Regional,Zimbabwe,102
+2020-21,Regional,Other,2310
+2021-22,Regional,India,5931
+2021-22,Regional,Sri Lanka,699
+2021-22,Regional,Pakistan,1358
+2021-22,Regional,Nepal,2472
+2021-22,Regional,Philippines,1458
+2021-22,Regional,People's Republic of China,950
+2021-22,Regional,Bangladesh,315
+2021-22,Regional,Iran,170
+2021-22,Regional,United Kingdom,583
+2021-22,Regional,Bhutan,186
+2021-22,Regional,South Africa,464
+2021-22,Regional,Vietnam,481
+2021-22,Regional,Nigeria,183
+2021-22,Regional,Egypt,118
+2021-22,Regional,Zimbabwe,108
+2021-22,Regional,Other,2747
+2022-23,Regional,India,12192
+2022-23,Regional,Sri Lanka,1068
+2022-23,Regional,Pakistan,1754
+2022-23,Regional,Nepal,4380
+2022-23,Regional,Philippines,3098
+2022-23,Regional,People's Republic of China,2106
+2022-23,Regional,Bangladesh,457
+2022-23,Regional,Iran,402
+2022-23,Regional,United Kingdom,1141
+2022-23,Regional,Bhutan,266
+2022-23,Regional,South Africa,1262
+2022-23,Regional,Vietnam,529
+2022-23,Regional,Nigeria,560
+2022-23,Regional,Egypt,268
+2022-23,Regional,Zimbabwe,229
+2022-23,Regional,Other,4232
+2023-24,Regional,India,12953
+2023-24,Regional,Sri Lanka,1357
+2023-24,Regional,Pakistan,2245
+2023-24,Regional,Nepal,3301
+2023-24,Regional,Philippines,1830
+2023-24,Regional,People's Republic of China,1380
+2023-24,Regional,Bangladesh,495
+2023-24,Regional,Iran,495
+2023-24,Regional,United Kingdom,729
+2023-24,Regional,Bhutan,409
+2023-24,Regional,South Africa,1050
+2023-24,Regional,Vietnam,489
+2023-24,Regional,Nigeria,362
+2023-24,Regional,Egypt,412
+2023-24,Regional,Zimbabwe,269
+2023-24,Regional,Other,4524
+2024-25,Regional,India,13193
+2024-25,Regional,Sri Lanka,3611
+2024-25,Regional,Pakistan,2881
+2024-25,Regional,Nepal,2574
+2024-25,Regional,Philippines,1542
+2024-25,Regional,People's Republic of China,1101
+2024-25,Regional,Bangladesh,588
+2024-25,Regional,Iran,582
+2024-25,Regional,United Kingdom,521
+2024-25,Regional,Bhutan,490
+2024-25,Regional,South Africa,441
+2024-25,Regional,Vietnam,424
+2024-25,Regional,Nigeria,413
+2024-25,Regional,Egypt,399
+2024-25,Regional,Zimbabwe,375
+2024-25,Regional,Other,3813
+2016-17,State/Territory Nominated,India,8541
+2016-17,State/Territory Nominated,People's Republic of China,2189
+2016-17,State/Territory Nominated,Nepal,934
+2016-17,State/Territory Nominated,Pakistan,1632
+2016-17,State/Territory Nominated,Sri Lanka,918
+2016-17,State/Territory Nominated,United Kingdom,1176
+2016-17,State/Territory Nominated,Philippines,1040
+2016-17,State/Territory Nominated,Malaysia,774
+2016-17,State/Territory Nominated,South Africa,757
+2016-17,State/Territory Nominated,Bhutan,56
+2016-17,State/Territory Nominated,Iran,488
+2016-17,State/Territory Nominated,Vietnam,449
+2016-17,State/Territory Nominated,Bangladesh,729
+2016-17,State/Territory Nominated,Ireland,222
+2016-17,State/Territory Nominated,Brazil,117
+2016-17,State/Territory Nominated,Other,3743
+2017-18,State/Territory Nominated,India,10652
+2017-18,State/Territory Nominated,People's Republic of China,2923
+2017-18,State/Territory Nominated,Nepal,917
+2017-18,State/Territory Nominated,Pakistan,1633
+2017-18,State/Territory Nominated,Sri Lanka,917
+2017-18,State/Territory Nominated,United Kingdom,1192
+2017-18,State/Territory Nominated,Philippines,1397
+2017-18,State/Territory Nominated,Malaysia,695
+2017-18,State/Territory Nominated,South Africa,903
+2017-18,State/Territory Nominated,Bhutan,63
+2017-18,State/Territory Nominated,Iran,634
+2017-18,State/Territory Nominated,Vietnam,482
+2017-18,State/Territory Nominated,Bangladesh,535
+2017-18,State/Territory Nominated,Ireland,189
+2017-18,State/Territory Nominated,Brazil,149
+2017-18,State/Territory Nominated,Other,4119
+2018-19,State/Territory Nominated,India,9465
+2018-19,State/Territory Nominated,People's Republic of China,2611
+2018-19,State/Territory Nominated,Nepal,1122
+2018-19,State/Territory Nominated,Pakistan,1387
+2018-19,State/Territory Nominated,Sri Lanka,818
+2018-19,State/Territory Nominated,United Kingdom,1390
+2018-19,State/Territory Nominated,Philippines,1326
+2018-19,State/Territory Nominated,Malaysia,472
+2018-19,State/Territory Nominated,South Africa,925
+2018-19,State/Territory Nominated,Bhutan,61
+2018-19,State/Territory Nominated,Iran,567
+2018-19,State/Territory Nominated,Vietnam,538
+2018-19,State/Territory Nominated,Bangladesh,377
+2018-19,State/Territory Nominated,Ireland,160
+2018-19,State/Territory Nominated,Brazil,164
+2018-19,State/Territory Nominated,Other,3963
+2019-20,State/Territory Nominated,India,6149
+2019-20,State/Territory Nominated,People's Republic of China,3616
+2019-20,State/Territory Nominated,Nepal,1679
+2019-20,State/Territory Nominated,Pakistan,674
+2019-20,State/Territory Nominated,Sri Lanka,414
+2019-20,State/Territory Nominated,United Kingdom,1204
+2019-20,State/Territory Nominated,Philippines,1330
+2019-20,State/Territory Nominated,Malaysia,428
+2019-20,State/Territory Nominated,South Africa,758
+2019-20,State/Territory Nominated,Bhutan,96
+2019-20,State/Territory Nominated,Iran,589
+2019-20,State/Territory Nominated,Vietnam,702
+2019-20,State/Territory Nominated,Bangladesh,364
+2019-20,State/Territory Nominated,Ireland,133
+2019-20,State/Territory Nominated,Brazil,127
+2019-20,State/Territory Nominated,Other,3232
+2020-21,State/Territory Nominated,India,4052
+2020-21,State/Territory Nominated,People's Republic of China,2207
+2020-21,State/Territory Nominated,Nepal,1669
+2020-21,State/Territory Nominated,Pakistan,573
+2020-21,State/Territory Nominated,Sri Lanka,268
+2020-21,State/Territory Nominated,United Kingdom,592
+2020-21,State/Territory Nominated,Philippines,789
+2020-21,State/Territory Nominated,Malaysia,451
+2020-21,State/Territory Nominated,South Africa,158
+2020-21,State/Territory Nominated,Bhutan,141
+2020-21,State/Territory Nominated,Iran,202
+2020-21,State/Territory Nominated,Vietnam,433
+2020-21,State/Territory Nominated,Bangladesh,183
+2020-21,State/Territory Nominated,Ireland,117
+2020-21,State/Territory Nominated,Brazil,135
+2020-21,State/Territory Nominated,Other,2298
+2021-22,State/Territory Nominated,India,5386
+2021-22,State/Territory Nominated,People's Republic of China,2443
+2021-22,State/Territory Nominated,Nepal,2737
+2021-22,State/Territory Nominated,Pakistan,688
+2021-22,State/Territory Nominated,Sri Lanka,444
+2021-22,State/Territory Nominated,United Kingdom,740
+2021-22,State/Territory Nominated,Philippines,995
+2021-22,State/Territory Nominated,Malaysia,514
+2021-22,State/Territory Nominated,South Africa,224
+2021-22,State/Territory Nominated,Bhutan,207
+2021-22,State/Territory Nominated,Iran,265
+2021-22,State/Territory Nominated,Vietnam,612
+2021-22,State/Territory Nominated,Bangladesh,258
+2021-22,State/Territory Nominated,Ireland,221
+2021-22,State/Territory Nominated,Brazil,197
+2021-22,State/Territory Nominated,Other,3445
+2022-23,State/Territory Nominated,India,9740
+2022-23,State/Territory Nominated,People's Republic of China,4324
+2022-23,State/Territory Nominated,Nepal,3367
+2022-23,State/Territory Nominated,Pakistan,908
+2022-23,State/Territory Nominated,Sri Lanka,834
+2022-23,State/Territory Nominated,United Kingdom,1703
+2022-23,State/Territory Nominated,Philippines,1135
+2022-23,State/Territory Nominated,Malaysia,716
+2022-23,State/Territory Nominated,South Africa,965
+2022-23,State/Territory Nominated,Bhutan,244
+2022-23,State/Territory Nominated,Iran,828
+2022-23,State/Territory Nominated,Vietnam,708
+2022-23,State/Territory Nominated,Bangladesh,384
+2022-23,State/Territory Nominated,Ireland,277
+2022-23,State/Territory Nominated,Brazil,398
+2022-23,State/Territory Nominated,Other,4469
+2023-24,State/Territory Nominated,India,11064
+2023-24,State/Territory Nominated,People's Republic of China,3179
+2023-24,State/Territory Nominated,Nepal,2773
+2023-24,State/Territory Nominated,Pakistan,1162
+2023-24,State/Territory Nominated,Sri Lanka,1406
+2023-24,State/Territory Nominated,United Kingdom,1163
+2023-24,State/Territory Nominated,Philippines,1262
+2023-24,State/Territory Nominated,Malaysia,628
+2023-24,State/Territory Nominated,South Africa,770
+2023-24,State/Territory Nominated,Bhutan,315
+2023-24,State/Territory Nominated,Iran,576
+2023-24,State/Territory Nominated,Vietnam,527
+2023-24,State/Territory Nominated,Bangladesh,390
+2023-24,State/Territory Nominated,Ireland,416
+2023-24,State/Territory Nominated,Brazil,289
+2023-24,State/Territory Nominated,Other,4480
+2024-25,State/Territory Nominated,India,11355
+2024-25,State/Territory Nominated,People's Republic of China,3158
+2024-25,State/Territory Nominated,Nepal,2523
+2024-25,State/Territory Nominated,Pakistan,2404
+2024-25,State/Territory Nominated,Sri Lanka,2010
+2024-25,State/Territory Nominated,United Kingdom,1602
+2024-25,State/Territory Nominated,Philippines,1308
+2024-25,State/Territory Nominated,Malaysia,815
+2024-25,State/Territory Nominated,South Africa,707
+2024-25,State/Territory Nominated,Bhutan,672
+2024-25,State/Territory Nominated,Iran,665
+2024-25,State/Territory Nominated,Vietnam,569
+2024-25,State/Territory Nominated,Bangladesh,401
+2024-25,State/Territory Nominated,Ireland,382
+2024-25,State/Territory Nominated,Brazil,348
+2024-25,State/Territory Nominated,Other,4081

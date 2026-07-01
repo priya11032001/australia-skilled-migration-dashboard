@@ -1,0 +1,286 @@
+year,pathway,occupation,count
+2015-16,Employer Sponsored,Registered Nurses,635
+2015-16,Employer Sponsored,Chefs,637
+2015-16,Employer Sponsored,Software and Applications Programmers,397
+2015-16,Employer Sponsored,Accountants,557
+2015-16,Employer Sponsored,Motor Mechanics,813
+2015-16,Employer Sponsored,ICT Business and Systems Analysts,237
+2015-16,Employer Sponsored,Civil Engineering Professionals,201
+2015-16,Employer Sponsored,University Lecturers and Tutors,532
+2015-16,Employer Sponsored,Police,25
+2015-16,Employer Sponsored,"Industrial, Mechanical and Production Engineers",141
+2015-16,Employer Sponsored,Other,17916
+2016-17,Employer Sponsored,Registered Nurses,481
+2016-17,Employer Sponsored,Chefs,671
+2016-17,Employer Sponsored,Software and Applications Programmers,412
+2016-17,Employer Sponsored,Accountants,577
+2016-17,Employer Sponsored,Motor Mechanics,739
+2016-17,Employer Sponsored,ICT Business and Systems Analysts,285
+2016-17,Employer Sponsored,Civil Engineering Professionals,128
+2016-17,Employer Sponsored,University Lecturers and Tutors,534
+2016-17,Employer Sponsored,Police,9
+2016-17,Employer Sponsored,"Industrial, Mechanical and Production Engineers",122
+2016-17,Employer Sponsored,Other,18226
+2017-18,Employer Sponsored,Registered Nurses,345
+2017-18,Employer Sponsored,Chefs,367
+2017-18,Employer Sponsored,Software and Applications Programmers,476
+2017-18,Employer Sponsored,Accountants,455
+2017-18,Employer Sponsored,Motor Mechanics,413
+2017-18,Employer Sponsored,ICT Business and Systems Analysts,301
+2017-18,Employer Sponsored,Civil Engineering Professionals,87
+2017-18,Employer Sponsored,University Lecturers and Tutors,638
+2017-18,Employer Sponsored,Police,11
+2017-18,Employer Sponsored,"Industrial, Mechanical and Production Engineers",82
+2017-18,Employer Sponsored,Other,12861
+2018-19,Employer Sponsored,Registered Nurses,405
+2018-19,Employer Sponsored,Chefs,702
+2018-19,Employer Sponsored,Software and Applications Programmers,782
+2018-19,Employer Sponsored,Accountants,596
+2018-19,Employer Sponsored,Motor Mechanics,510
+2018-19,Employer Sponsored,ICT Business and Systems Analysts,417
+2018-19,Employer Sponsored,Civil Engineering Professionals,127
+2018-19,Employer Sponsored,University Lecturers and Tutors,924
+2018-19,Employer Sponsored,Police,5
+2018-19,Employer Sponsored,"Industrial, Mechanical and Production Engineers",94
+2018-19,Employer Sponsored,Other,15466
+2019-20,Employer Sponsored,Registered Nurses,370
+2019-20,Employer Sponsored,Chefs,489
+2019-20,Employer Sponsored,Software and Applications Programmers,768
+2019-20,Employer Sponsored,Accountants,470
+2019-20,Employer Sponsored,Motor Mechanics,332
+2019-20,Employer Sponsored,ICT Business and Systems Analysts,333
+2019-20,Employer Sponsored,Civil Engineering Professionals,121
+2019-20,Employer Sponsored,University Lecturers and Tutors,660
+2019-20,Employer Sponsored,Police,0
+2019-20,Employer Sponsored,"Industrial, Mechanical and Production Engineers",103
+2019-20,Employer Sponsored,Other,9617
+2020-21,Employer Sponsored,Registered Nurses,557
+2020-21,Employer Sponsored,Chefs,357
+2020-21,Employer Sponsored,Software and Applications Programmers,1298
+2020-21,Employer Sponsored,Accountants,520
+2020-21,Employer Sponsored,Motor Mechanics,322
+2020-21,Employer Sponsored,ICT Business and Systems Analysts,430
+2020-21,Employer Sponsored,Civil Engineering Professionals,328
+2020-21,Employer Sponsored,University Lecturers and Tutors,415
+2020-21,Employer Sponsored,"Industrial, Mechanical and Production Engineers",230
+2020-21,Employer Sponsored,Other,6086
+2021-22,Employer Sponsored,Registered Nurses,642
+2021-22,Employer Sponsored,Chefs,1074
+2021-22,Employer Sponsored,Software and Applications Programmers,1492
+2021-22,Employer Sponsored,Accountants,922
+2021-22,Employer Sponsored,Motor Mechanics,385
+2021-22,Employer Sponsored,ICT Business and Systems Analysts,585
+2021-22,Employer Sponsored,Civil Engineering Professionals,282
+2021-22,Employer Sponsored,University Lecturers and Tutors,320
+2021-22,Employer Sponsored,Police,0
+2021-22,Employer Sponsored,"Industrial, Mechanical and Production Engineers",229
+2021-22,Employer Sponsored,Other,5793
+2022-23,Employer Sponsored,Registered Nurses,1510
+2022-23,Employer Sponsored,Chefs,1103
+2022-23,Employer Sponsored,Software and Applications Programmers,1548
+2022-23,Employer Sponsored,Accountants,780
+2022-23,Employer Sponsored,Motor Mechanics,659
+2022-23,Employer Sponsored,ICT Business and Systems Analysts,677
+2022-23,Employer Sponsored,Civil Engineering Professionals,317
+2022-23,Employer Sponsored,University Lecturers and Tutors,396
+2022-23,Employer Sponsored,Police,17
+2022-23,Employer Sponsored,"Industrial, Mechanical and Production Engineers",258
+2022-23,Employer Sponsored,Other,7862
+2023-24,Employer Sponsored,Registered Nurses,2360
+2023-24,Employer Sponsored,Chefs,1378
+2023-24,Employer Sponsored,Software and Applications Programmers,1191
+2023-24,Employer Sponsored,Accountants,628
+2023-24,Employer Sponsored,Motor Mechanics,503
+2023-24,Employer Sponsored,ICT Business and Systems Analysts,390
+2023-24,Employer Sponsored,Civil Engineering Professionals,274
+2023-24,Employer Sponsored,University Lecturers and Tutors,378
+2023-24,Employer Sponsored,Police,284
+2023-24,Employer Sponsored,"Industrial, Mechanical and Production Engineers",267
+2023-24,Employer Sponsored,Other,6929
+2024-25,Employer Sponsored,Registered Nurses,2394
+2024-25,Employer Sponsored,Chefs,1894
+2024-25,Employer Sponsored,Software and Applications Programmers,1633
+2024-25,Employer Sponsored,Accountants,754
+2024-25,Employer Sponsored,Motor Mechanics,643
+2024-25,Employer Sponsored,ICT Business and Systems Analysts,528
+2024-25,Employer Sponsored,Civil Engineering Professionals,421
+2024-25,Employer Sponsored,University Lecturers and Tutors,410
+2024-25,Employer Sponsored,Police,379
+2024-25,Employer Sponsored,"Industrial, Mechanical and Production Engineers",378
+2024-25,Employer Sponsored,Other,8350
+2019-20,Regional,Accountants,1532
+2019-20,Regional,Software and Applications Programmers,272
+2019-20,Regional,"Industrial, Mechanical and Production Engineers",174
+2019-20,Regional,Chefs,411
+2019-20,Regional,Civil Engineering Professionals,211
+2019-20,Regional,Motor Mechanics,207
+2019-20,Regional,Other Engineering Professionals,166
+2019-20,Regional,ICT Business and Systems Analysts,117
+2019-20,Regional,Registered Nurses,897
+2019-20,Regional,Human Resource Professionals,63
+2019-20,Regional,Other,6210
+2020-21,Regional,Accountants,480
+2020-21,Regional,Software and Applications Programmers,264
+2020-21,Regional,"Industrial, Mechanical and Production Engineers",245
+2020-21,Regional,Chefs,142
+2020-21,Regional,Civil Engineering Professionals,223
+2020-21,Regional,Motor Mechanics,66
+2020-21,Regional,Other Engineering Professionals,160
+2020-21,Regional,ICT Business and Systems Analysts,108
+2020-21,Regional,Registered Nurses,1353
+2020-21,Regional,Human Resource Professionals,14
+2020-21,Regional,Other,2863
+2021-22,Regional,Accountants,1376
+2021-22,Regional,Software and Applications Programmers,377
+2021-22,Regional,"Industrial, Mechanical and Production Engineers",277
+2021-22,Regional,Chefs,448
+2021-22,Regional,Civil Engineering Professionals,282
+2021-22,Regional,Motor Mechanics,108
+2021-22,Regional,Other Engineering Professionals,176
+2021-22,Regional,ICT Business and Systems Analysts,251
+2021-22,Regional,Registered Nurses,1162
+2021-22,Regional,Human Resource Professionals,49
+2021-22,Regional,Other,3922
+2022-23,Regional,Accountants,2971
+2022-23,Regional,Software and Applications Programmers,491
+2022-23,Regional,"Industrial, Mechanical and Production Engineers",363
+2022-23,Regional,Chefs,983
+2022-23,Regional,Civil Engineering Professionals,338
+2022-23,Regional,Motor Mechanics,579
+2022-23,Regional,Other Engineering Professionals,246
+2022-23,Regional,ICT Business and Systems Analysts,366
+2022-23,Regional,Registered Nurses,456
+2022-23,Regional,Human Resource Professionals,99
+2022-23,Regional,Other,7945
+2023-24,Regional,Accountants,2272
+2023-24,Regional,Software and Applications Programmers,463
+2023-24,Regional,"Industrial, Mechanical and Production Engineers",809
+2023-24,Regional,Chefs,944
+2023-24,Regional,Civil Engineering Professionals,544
+2023-24,Regional,Motor Mechanics,289
+2023-24,Regional,Other Engineering Professionals,442
+2023-24,Regional,ICT Business and Systems Analysts,488
+2023-24,Regional,Registered Nurses,154
+2023-24,Regional,Human Resource Professionals,136
+2023-24,Regional,Other,7255
+2024-25,Regional,Accountants,997
+2024-25,Regional,Software and Applications Programmers,606
+2024-25,Regional,"Industrial, Mechanical and Production Engineers",586
+2024-25,Regional,Chefs,580
+2024-25,Regional,Civil Engineering Professionals,464
+2024-25,Regional,Motor Mechanics,392
+2024-25,Regional,Other Engineering Professionals,365
+2024-25,Regional,ICT Business and Systems Analysts,358
+2024-25,Regional,Registered Nurses,299
+2024-25,Regional,Human Resource Professionals,262
+2024-25,Regional,Other,7487
+2015-16,State/Territory Nominated,Software and Applications Programmers,1436
+2015-16,State/Territory Nominated,Accountants,1542
+2015-16,State/Territory Nominated,ICT Business and Systems Analysts,559
+2015-16,State/Territory Nominated,Civil Engineering Professionals,378
+2015-16,State/Territory Nominated,"Industrial, Mechanical and Production Engineers",172
+2015-16,State/Territory Nominated,Registered Nurses,731
+2015-16,State/Territory Nominated,Chefs,89
+2015-16,State/Territory Nominated,Electrical Engineers,130
+2015-16,State/Territory Nominated,Other Engineering Professionals,125
+2015-16,State/Territory Nominated,Early Childhood (Pre-primary School) Teachers,29
+2015-16,State/Territory Nominated,Other,5766
+2016-17,State/Territory Nominated,Software and Applications Programmers,1412
+2016-17,State/Territory Nominated,Accountants,1308
+2016-17,State/Territory Nominated,ICT Business and Systems Analysts,616
+2016-17,State/Territory Nominated,Civil Engineering Professionals,320
+2016-17,State/Territory Nominated,"Industrial, Mechanical and Production Engineers",108
+2016-17,State/Territory Nominated,Registered Nurses,548
+2016-17,State/Territory Nominated,Chefs,96
+2016-17,State/Territory Nominated,Electrical Engineers,95
+2016-17,State/Territory Nominated,Other Engineering Professionals,211
+2016-17,State/Territory Nominated,Early Childhood (Pre-primary School) Teachers,24
+2016-17,State/Territory Nominated,Other,5489
+2017-18,State/Territory Nominated,Software and Applications Programmers,1712
+2017-18,State/Territory Nominated,Accountants,1342
+2017-18,State/Territory Nominated,ICT Business and Systems Analysts,520
+2017-18,State/Territory Nominated,Civil Engineering Professionals,385
+2017-18,State/Territory Nominated,"Industrial, Mechanical and Production Engineers",273
+2017-18,State/Territory Nominated,Registered Nurses,932
+2017-18,State/Territory Nominated,Chefs,170
+2017-18,State/Territory Nominated,Electrical Engineers,138
+2017-18,State/Territory Nominated,Other Engineering Professionals,362
+2017-18,State/Territory Nominated,Early Childhood (Pre-primary School) Teachers,61
+2017-18,State/Territory Nominated,Other,6207
+2018-19,State/Territory Nominated,Software and Applications Programmers,1431
+2018-19,State/Territory Nominated,Accountants,1414
+2018-19,State/Territory Nominated,ICT Business and Systems Analysts,510
+2018-19,State/Territory Nominated,Civil Engineering Professionals,432
+2018-19,State/Territory Nominated,"Industrial, Mechanical and Production Engineers",246
+2018-19,State/Territory Nominated,Registered Nurses,1476
+2018-19,State/Territory Nominated,Chefs,298
+2018-19,State/Territory Nominated,Electrical Engineers,246
+2018-19,State/Territory Nominated,Other Engineering Professionals,326
+2018-19,State/Territory Nominated,Early Childhood (Pre-primary School) Teachers,77
+2018-19,State/Territory Nominated,Other,4941
+2019-20,State/Territory Nominated,Software and Applications Programmers,956
+2019-20,State/Territory Nominated,Accountants,1726
+2019-20,State/Territory Nominated,ICT Business and Systems Analysts,433
+2019-20,State/Territory Nominated,Civil Engineering Professionals,438
+2019-20,State/Territory Nominated,"Industrial, Mechanical and Production Engineers",193
+2019-20,State/Territory Nominated,Registered Nurses,2468
+2019-20,State/Territory Nominated,Chefs,166
+2019-20,State/Territory Nominated,Electrical Engineers,111
+2019-20,State/Territory Nominated,Other Engineering Professionals,546
+2019-20,State/Territory Nominated,Early Childhood (Pre-primary School) Teachers,115
+2019-20,State/Territory Nominated,Other,3826
+2020-21,State/Territory Nominated,Software and Applications Programmers,1141
+2020-21,State/Territory Nominated,Accountants,863
+2020-21,State/Territory Nominated,ICT Business and Systems Analysts,416
+2020-21,State/Territory Nominated,Civil Engineering Professionals,372
+2020-21,State/Territory Nominated,"Industrial, Mechanical and Production Engineers",313
+2020-21,State/Territory Nominated,Registered Nurses,1537
+2020-21,State/Territory Nominated,Chefs,172
+2020-21,State/Territory Nominated,Electrical Engineers,123
+2020-21,State/Territory Nominated,Other Engineering Professionals,344
+2020-21,State/Territory Nominated,Early Childhood (Pre-primary School) Teachers,58
+2020-21,State/Territory Nominated,Other,2947
+2021-22,State/Territory Nominated,Software and Applications Programmers,1277
+2021-22,State/Territory Nominated,Accountants,673
+2021-22,State/Territory Nominated,ICT Business and Systems Analysts,551
+2021-22,State/Territory Nominated,Civil Engineering Professionals,601
+2021-22,State/Territory Nominated,"Industrial, Mechanical and Production Engineers",458
+2021-22,State/Territory Nominated,Registered Nurses,2859
+2021-22,State/Territory Nominated,Chefs,425
+2021-22,State/Territory Nominated,Electrical Engineers,147
+2021-22,State/Territory Nominated,Other Engineering Professionals,273
+2021-22,State/Territory Nominated,Early Childhood (Pre-primary School) Teachers,212
+2021-22,State/Territory Nominated,Other,4026
+2022-23,State/Territory Nominated,Software and Applications Programmers,1247
+2022-23,State/Territory Nominated,Accountants,941
+2022-23,State/Territory Nominated,ICT Business and Systems Analysts,576
+2022-23,State/Territory Nominated,Civil Engineering Professionals,797
+2022-23,State/Territory Nominated,"Industrial, Mechanical and Production Engineers",686
+2022-23,State/Territory Nominated,Registered Nurses,2855
+2022-23,State/Territory Nominated,Chefs,668
+2022-23,State/Territory Nominated,Electrical Engineers,305
+2022-23,State/Territory Nominated,Other Engineering Professionals,525
+2022-23,State/Territory Nominated,Early Childhood (Pre-primary School) Teachers,749
+2022-23,State/Territory Nominated,Other,9006
+2023-24,State/Territory Nominated,Software and Applications Programmers,1507
+2023-24,State/Territory Nominated,Accountants,863
+2023-24,State/Territory Nominated,ICT Business and Systems Analysts,688
+2023-24,State/Territory Nominated,Civil Engineering Professionals,821
+2023-24,State/Territory Nominated,"Industrial, Mechanical and Production Engineers",550
+2023-24,State/Territory Nominated,Registered Nurses,2021
+2023-24,State/Territory Nominated,Chefs,510
+2023-24,State/Territory Nominated,Electrical Engineers,346
+2023-24,State/Territory Nominated,Other Engineering Professionals,500
+2023-24,State/Territory Nominated,Early Childhood (Pre-primary School) Teachers,598
+2023-24,State/Territory Nominated,Other,8506
+2024-25,State/Territory Nominated,Software and Applications Programmers,1561
+2024-25,State/Territory Nominated,Accountants,1274
+2024-25,State/Territory Nominated,ICT Business and Systems Analysts,1132
+2024-25,State/Territory Nominated,Civil Engineering Professionals,1128
+2024-25,State/Territory Nominated,"Industrial, Mechanical and Production Engineers",884
+2024-25,State/Territory Nominated,Registered Nurses,846
+2024-25,State/Territory Nominated,Chefs,636
+2024-25,State/Territory Nominated,Electrical Engineers,540
+2024-25,State/Territory Nominated,Other Engineering Professionals,516
+2024-25,State/Territory Nominated,Early Childhood (Pre-primary School) Teachers,441
+2024-25,State/Territory Nominated,Other,8497
